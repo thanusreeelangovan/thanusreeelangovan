@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Thanusree 
 
-<!--
-**thanusreeelangovan/thanusreeelangovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd year Computer Science student at MVJ College of Engineering  
 
-Here are some ideas to get you started:
+Tech Stack  :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Python, Java, JavaScript  
+• MySQL  
+• Git and GitHub  
+
+Projects  :
+
+• Student Health Management System  
+• Expense Tracker  
+• Student Result Analyzer  
+
+Connect  :
+LinkedIn: www.linkedin.com/in/e-thanusree-‎-664970346  
+
