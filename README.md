@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -56,7 +56,7 @@
 
 ---
 
-###  [Expense Tracker](https://github.com/yourusername/expense-tracker)
+###  [Expense Tracker](https://github.com/thanusreeelangovan/expense-tracker)
 > **Console-based application for managing and splitting expenses**
 
 - **Tech Stack:** Java
@@ -68,7 +68,7 @@
 
 ---
 
-###  [Student Result Analyzer](https://github.com/yourusername/student-result-analyzer)
+###  [Student Result Analyzer](https://github.com/thanusreeelangovan/student-result-analyzer)
 > **Automated system for analyzing student results and generating toppers list**
 
 - **Tech Stack:** Python, MySQL
@@ -81,7 +81,7 @@
 
 ---
 
-###  [Attendance Management System](https://github.com/yourusername/attendance-management)
+###  [Attendance Management System](https://github.com/thanusreeelangovan/attendance-management)
 > **Java-based system for tracking and managing student attendance**
 
 - **Tech Stack:** Java, Database
@@ -94,7 +94,7 @@
 
 ---
 
-###  [CPU Scheduling Algorithm Visualizer](https://github.com/yourusername/cpu-scheduler-visualizer)
+###  [CPU Scheduling Algorithm Visualizer](https://github.com/thanusreeelangovan/cpu-scheduler-visualizer)
 > **Interactive visualization of CPU scheduling algorithms**
 
 - **Tech Stack:** C
