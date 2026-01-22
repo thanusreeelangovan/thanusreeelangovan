@@ -107,20 +107,6 @@
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-![Thanusree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanusreeelangovan_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanusreeelangovan&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thanusreeelangovan&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ##  What I'm Currently Working On
 
 -  Improving existing projects with better documentation and deployment
