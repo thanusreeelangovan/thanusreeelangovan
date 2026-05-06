@@ -69,19 +69,6 @@
 
 ---
 
-###  [Student Result Analyzer](https://github.com/thanusreeelangovan/student-result-analyzer)
-> **Automated system for analyzing student results and generating toppers list**
-
-- **Tech Stack:** Python, MySQL
-- **Purpose:** Streamline result processing and topper identification
-- **Features:**
-  - Automated result analysis
-  - Grade calculations
-  - Topper list generation
-  - Performance reports
-
----
-
 ###  [Attendance Management System](https://github.com/thanusreeelangovan/attendance-management)
 > **Java-based system for tracking and managing student attendance**
 
