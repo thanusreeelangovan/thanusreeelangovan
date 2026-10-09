@@ -48,16 +48,17 @@ A hackathon prototype that assesses transaction risk before payment authorizatio
 [Live demo](https://sentinel-ai-1-5u3s.onrender.com) · [Repository](https://github.com/thanusreeelangovan/sentinel-ai)
 
 ###  [TruthLens](https://github.com/thanusreeelangovan/truthlens-deepfake-detector)
-**Video deepfake detection and analysis**
+**Research video deepfake detection and analysis**
 
 A machine learning project exploring facial analysis and temporal evidence to assess whether video content may be manipulated.
 
 - Built workflows for video frame sampling, face extraction, and model inference with **Python, FastAPI, OpenCV, and PyTorch**.
 - Added an **EfficientNet-B0** training and evaluation pipeline.
-- Designed temporal aggregation to provide confidence-aware results rather than relying on a single frame.
+- Implemented gap-aware temporal analysis with inconclusive outcomes, safer upload validation, and reproducible backend tests.
+- Deployed a full stack research demo using an explicitly attributed external EfficientNet B0 checkpoint.
 
-**Status:** Model training and evaluation are being developed; no verified accuracy claim is made.  
-[Repository](https://github.com/thanusreeelangovan/truthlens-deepfake-detector)
+**Demo model:** Third party pretrained checkpoint from [Xicor9](https://huggingface.co/Xicor9/efficientnet-b0-ffpp-c23); not trained by me. Model accuracy has not been independently validated. This is an experimental educational demonstration.  
+[Live research demo](https://truthlens-web-hnkt.onrender.com) · [Repository](https://github.com/thanusreeelangovan/truthlens-deepfake-detector)
 
 ###  [MediCampus](https://github.com/thanusreeelangovan/student-health-record-management-system)
 **Student health record management system**
