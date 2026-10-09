@@ -57,7 +57,7 @@ A machine learning project exploring facial analysis and temporal evidence to as
 - Implemented gap-aware temporal analysis with inconclusive outcomes, safer upload validation, and reproducible backend tests.
 - Deployed a full stack research demo using an explicitly attributed external EfficientNet B0 checkpoint.
 
-**Demo model:** Third party pretrained checkpoint from [Xicor9](https://huggingface.co/Xicor9/efficientnet-b0-ffpp-c23); not trained by me. Model accuracy has not been independently validated. This is an experimental educational demonstration.  
+**Demo model:** Third party pretrained checkpoint from [Xicor9](https://huggingface.co/Xicor9/efficientnet-b0-ffpp-c23); not trained by me. Model accuracy has not been independently validated. A live smoke test confirmed genuine model inference but also exposed a likely false positive on a constructed non-deepfake clip. This is an experimental educational demonstration, not a reliable media authenticator.  
 [Live research demo](https://truthlens-web-hnkt.onrender.com) · [Repository](https://github.com/thanusreeelangovan/truthlens-deepfake-detector)
 
 ###  [MediCampus](https://github.com/thanusreeelangovan/student-health-record-management-system)
