@@ -1,133 +1,87 @@
-# Hi there, I'm Thanusree 
-
 <div align="center">
-  
-### Computer Science Student | Problem Solver | Tech Enthusiast
 
- 3rd Year @ **MVJ College of Engineering**  
- Building practical solutions to real-world problems  
- Passionate about software development and database systems
+# Hi, I'm Thanusree 👋
+
+### Computer Science Undergraduate | Aspiring Software Engineer | Backend Development
+
+Third year Computer Science Engineering student at **MVJ College of Engineering**  
+Bengaluru, India | **Class of 2028**
+
+Interested in building reliable software, designing backend systems, and solving practical problems with code.
+
+[LinkedIn](https://www.linkedin.com/in/e-thanusree-%E2%80%8E-664970346) · [GitHub](https://github.com/thanusreeelangovan) · [Email](mailto:elangovanthanusree@gmail.com)
 
 </div>
 
----
+## About Me
 
-##  About Me
+- 💻 I enjoy working with **Java, Python, backend APIs, and databases**.
+- 🔧 I build projects involving **transaction processing, data management, and applied machine learning**.
+- 📚 I'm strengthening my **data structures and algorithms, backend design, and software engineering fundamentals**.
+- 🎯 I'm preparing for **software engineering internships and backend development roles**.
+- 💡 I started coding in high school and built my first project to address a problem at my school.
 
--  Currently working on **database-driven applications** and **system tools**
--  Learning **Java**, **JavaScript**, and exploring **Web Development**
--  Experienced in building **management systems** and **utility applications**
--  Goal: Contribute to open-source and build impactful projects
--  Fun fact: I started coding in high school and built my first project to solve a real problem in my school!
+## Technical Skills
 
----
+**Languages:** Java · Python · SQL · JavaScript · C · C++
 
-##  Tech Stack
+**Backend:** FastAPI · Flask · REST APIs · SQLAlchemy
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Databases:** PostgreSQL · MySQL · SQLite
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Developer Tools:** Git · GitHub · Docker
 
-### Frameworks & Libraries
-![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Additional project experience:** React · OpenCV · PyTorch · scikit-learn
 
----
+## Featured Projects
 
-##  Featured Projects
+### 🔐 [SentinelAI](https://github.com/thanusreeelangovan/sentinel-ai)
+**Fraud risk evaluation for digital payments**
 
-### [Student Health Management System](https://github.com/yourusername/student-health-management)
-> **Desktop application to digitize and manage student health records**
+A hackathon prototype that assesses transaction risk before payment authorization using contextual signals, anomaly detection, and explainable risk decisions.
 
-- **Tech Stack:** Python, Tkinter, MySQL
-- **Problem Solved:** Replaced manual, error-prone health record management in schools
-- **Key Features:** 
-  - Complete CRUD operations for health records
-  - Search and filter functionality
-  - Data validation and backup
-  - User-friendly GUI interface
+- Built backend services with **Python, FastAPI, SQLAlchemy, and PostgreSQL** for transaction evaluation and persistence.
+- Implemented risk-based payment decisions, contextual explanations, and an account takeover intervention scenario.
+- Used **scikit-learn** for anomaly detection and **Docker** for deployment.
 
----
+**My role:** Team Lead and Backend Developer  
+[Live demo](https://sentinel-ai-1-5u3s.onrender.com) · [Repository](https://github.com/thanusreeelangovan/sentinel-ai)
 
-###  [Expense Tracker](https://github.com/thanusreeelangovan/expense-tracker)
-> **Console-based application for managing and splitting expenses**
+### 🔍 [TruthLens](https://github.com/thanusreeelangovan/truthlens-deepfake-detector)
+**Video deepfake detection and analysis**
 
-- **Tech Stack:** Java
-- **Features:**
-  - Track personal expenses
-  - Split bills among groups
-  - Generate expense reports
-  - Transaction history
+A machine learning project exploring facial analysis and temporal evidence to assess whether video content may be manipulated.
 
----
+- Built workflows for video frame sampling, face extraction, and model inference with **Python, FastAPI, OpenCV, and PyTorch**.
+- Added an **EfficientNet-B0** training and evaluation pipeline.
+- Designed temporal aggregation to provide confidence-aware results rather than relying on a single frame.
 
-###  [Attendance Management System](https://github.com/thanusreeelangovan/attendance-management)
-> **Java-based system for tracking and managing student attendance**
+**Status:** Model training and evaluation are being developed; no verified accuracy claim is made.  
+[Repository](https://github.com/thanusreeelangovan/truthlens-deepfake-detector)
 
-- **Tech Stack:** Java, Database
-- **College Mini Project**
-- **Features:**
-  - Mark and track attendance
-  - Generate attendance reports
-  - Student-wise statistics
-  - Export functionality
+### 🏥 [MediCampus](https://github.com/thanusreeelangovan/student-health-record-management-system)
+**Student health record management system**
 
----
+A student health records project that evolved from a desktop application into a database-backed web application.
 
-###  [CPU Scheduling Algorithm Visualizer](https://github.com/thanusreeelangovan/cpu-scheduler-visualizer)
-> **Interactive visualization of CPU scheduling algorithms**
+- Built **Flask REST APIs** for student health records and appointment management.
+- Implemented **JWT authentication**, record search, and dashboard analytics.
+- Used **Python, SQLite, JavaScript, HTML, and CSS**.
 
-- **Tech Stack:** C
-- **Academic Project** (Operating Systems)
-- **Algorithms Implemented:**
-  - First Come First Serve (FCFS)
-  - Shortest Job First (SJF)
-  - Round Robin
-  - Priority Scheduling
+[Repository](https://github.com/thanusreeelangovan/student-health-record-management-system)
 
----
+## Currently Learning
 
-##  What I'm Currently Working On
+- Data Structures and Algorithms using Java
+- Spring Boot and backend application design
+- Database design, testing, and deployment practices
+- Software architecture and system design fundamentals
 
--  Improving existing projects with better documentation and deployment
--  Learning advanced Java concepts and Spring Boot
--  Exploring web development with JavaScript frameworks
--  Contributing to open-source projects
+## Let's Connect
 
----
+I'm interested in learning from other developers, contributing to meaningful software, and exploring software engineering opportunities.
 
-## Achievements
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-thanusree-%E2%80%8E-664970346)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thanusreeelangovan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:elangovanthanusree@gmail.com)
 
--  Built 5+ functional projects solving real-world problems
--  Proficient in multiple programming languages
--  Strong foundation in database management
--  Active learner exploring new technologies
-
----
-
-## Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/e-thanusree-‎-664970346)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanusreeelangovan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elangovanthanusree@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-###  *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
- From [Thanusree](https://github.com/thanusreeelangovan)
-
-</div>
