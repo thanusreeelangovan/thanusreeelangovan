@@ -15,11 +15,11 @@ Interested in building reliable software, designing backend systems, and solving
 
 ## About Me
 
-- 💻 I enjoy working with **Java, Python, backend APIs, and databases**.
-- 🔧 I build projects involving **transaction processing, data management, and applied machine learning**.
-- 📚 I'm strengthening my **data structures and algorithms, backend design, and software engineering fundamentals**.
-- 🎯 I'm preparing for **software engineering internships and backend development roles**.
-- 💡 I started coding in high school and built my first project to address a problem at my school.
+-  I enjoy working with **Java, Python, backend APIs, and databases**.
+-  I build projects involving **transaction processing, data management, and applied machine learning**.
+-  I'm strengthening my **data structures and algorithms, backend design, and software engineering fundamentals**.
+-  I'm preparing for **software engineering internships and backend development roles**.
+-  I started coding in high school and built my first project to address a problem at my school.
 
 ## Technical Skills
 
@@ -35,7 +35,7 @@ Interested in building reliable software, designing backend systems, and solving
 
 ## Featured Projects
 
-### 🔐 [SentinelAI](https://github.com/thanusreeelangovan/sentinel-ai)
+###  [SentinelAI](https://github.com/thanusreeelangovan/sentinel-ai)
 **Fraud risk evaluation for digital payments**
 
 A hackathon prototype that assesses transaction risk before payment authorization using contextual signals, anomaly detection, and explainable risk decisions.
@@ -47,7 +47,7 @@ A hackathon prototype that assesses transaction risk before payment authorizatio
 **My role:** Team Lead and Backend Developer  
 [Live demo](https://sentinel-ai-1-5u3s.onrender.com) · [Repository](https://github.com/thanusreeelangovan/sentinel-ai)
 
-### 🔍 [TruthLens](https://github.com/thanusreeelangovan/truthlens-deepfake-detector)
+###  [TruthLens](https://github.com/thanusreeelangovan/truthlens-deepfake-detector)
 **Video deepfake detection and analysis**
 
 A machine learning project exploring facial analysis and temporal evidence to assess whether video content may be manipulated.
@@ -59,7 +59,7 @@ A machine learning project exploring facial analysis and temporal evidence to as
 **Status:** Model training and evaluation are being developed; no verified accuracy claim is made.  
 [Repository](https://github.com/thanusreeelangovan/truthlens-deepfake-detector)
 
-### 🏥 [MediCampus](https://github.com/thanusreeelangovan/student-health-record-management-system)
+###  [MediCampus](https://github.com/thanusreeelangovan/student-health-record-management-system)
 **Student health record management system**
 
 A student health records project that evolved from a desktop application into a database-backed web application.
